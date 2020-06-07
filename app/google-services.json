@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "486300967386",
+    "firebase_url": "https://compugen-onboarding.firebaseio.com",
+    "project_id": "compugen-onboarding",
+    "storage_bucket": "compugen-onboarding.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486300967386:android:1a8ce8fa8ad970a95160e3",
+        "android_client_info": {
+          "package_name": "com.mehul.compugenonboarding"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486300967386-2knoegslkntetaqnvg62j0ufms22nbcm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mehul.compugenonboarding",
+            "certificate_hash": "7e7e866dad9bbde2d05ba8b8d928bee06eb0fc1b"
+          }
+        },
+        {
+          "client_id": "486300967386-2pecm1qg93bleu83uf6mo1adeiqgi5um.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHYWq4sx_zDXq4Bgs4IczVdy-tKGmFKv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486300967386-2pecm1qg93bleu83uf6mo1adeiqgi5um.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

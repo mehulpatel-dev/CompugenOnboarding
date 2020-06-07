@@ -1,0 +1,26 @@
+Onboarding form:
+
+1st page - Employee info:
+Name
+DOB
+Role
+Department
+Reporting Manager
+Previous employee (Y/N) check box
+Start date
+full time / contract / co-op / intern (check box)
+    if contract/co-op/intern (end date)
+direct deposit info
+    - attachment option for void check / picture of it option
+
+Salary: number text box
+ next to it a drop down to select yearly, monthly, hourly
+
+
+2nd page - Access/permissions/
+
+3rd page - Software requests
+
+4th page - Hardware request
+
+5th page - Thanks you, form submitted display onboarding ref#:
